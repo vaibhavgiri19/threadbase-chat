@@ -39,3 +39,4 @@ the UI works.
 
 - The Express server with `/auth/login` (issues a JWT) and an HTTP `verifyToken` route.
 - The React app: login page, auth context (holds the `token`), and `ChatRoom.jsx`.
+- Live chat implementation using Socket.io
